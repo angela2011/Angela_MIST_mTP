@@ -1,0 +1,5 @@
+# HTML - Source code
+# Procedure:
+- After successfully logging into RootMe, by inspecting the webpage and going to the source code, we notice something commented out like so:
+- <!-- Je crois que c'est vraiment trop simple là ! It's really too easy ! password : nZ^&@q5&sjJHev0 -->
+- We find the password hidden in between the comments and enter to get through the task.
